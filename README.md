@@ -43,3 +43,5 @@ Refer to [here](https://github.com/pohzhiee/biped_gym)
 
 # Notes
 1. There is currently a bug where the controllers and the robot plugins do not discover each other quickly enough. This causes the robot to seem like it is not controlled when it is spawned. You might need to wait for some time before they discover each other and the robot move into a fixed position. This bug is partially beyond our control as some of it has to do with the discovery mechanism of the ROS publisher/subscribers.`
+
+Testing
